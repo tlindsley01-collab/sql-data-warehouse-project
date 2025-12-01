@@ -15,7 +15,8 @@ I strongly recommend checking out Baraa's Git page and exploring some of his cou
 #### Objective
 Develop a data warehouse based on the Medallion Architecture using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
-The data architecture diagram below depicts the Medallion Architecture used for this project
+The data architecture diagram below depicts the Medallion Architecture used for this project docs/high_level_architecture.drawio
+[Data Architecture](docs/high_level_architecture.drawio)
 
 #### Specifications
 - **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
