@@ -13,7 +13,9 @@ I strongly recommend checking out Baraa's Git page and exploring some of his cou
 ### Building the Data Warehouse (Data Engineering)
 
 #### Objective
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+Develop a data warehouse based on the Medallion Architecture using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+
+The data architecture diagram below depicts the Medallion Architecture used for this project
 
 #### Specifications
 - **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
