@@ -1,8 +1,12 @@
-# sql-data-warehouse-project
+# :rocket: sql-data-warehouse-project
 
 Welcome to my **sql-data-warehouse-project** repository!
 
-This project was my first attempt at building a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.  Designed as a portfolio project, it highlights what I have learned by applying common, foundational practices in data engineering and analytics.
+This project was my first attempt at learning SQL and building a data warehouse via an online course delivered by Baraa Khatib Salkini (AKA DataWithBaraa). Not only is this my first attempt at SQL and data warehouse fundamentals....it is also my first time working in Git and building a repo.
+
+This project serves as the firstportfolio project entry in Git and it highlights what I  learned.
+
+I strongly recommend checking out Baraa's Git page and exploring some of his courses --> **[DataWithBaraa](https://github.com/DataWithBaraa)**
 
 ## Project Requirements
 
