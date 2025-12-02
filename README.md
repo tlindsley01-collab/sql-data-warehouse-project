@@ -6,7 +6,7 @@ This project was my first attempt at learning SQL and building a data warehouse 
 
 This project serves as the first portfolio project entry in Git and it highlights what I  learned.
 
-I fully documented each step of the entire project.  If you're looking for good toilet reading --> **[TEST]**
+I fully documented each step of the entire project.  If you're looking for good toilet reading --> **![TEST](docs/Data Warehouse Project - Detailed Project Documentation.pdf)**
 
 I strongly recommend checking out Baraa's Git page and exploring some of his courses --> **[DataWithBaraa](https://github.com/DataWithBaraa)**
 
